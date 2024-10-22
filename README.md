@@ -107,6 +107,7 @@ if(NUM_LOOPS>=10)    {
 $ ./sem.o 
 
 ![319106637-acd3c4cb-b3c2-45b1-b947-7d397f4035b7](https://github.com/user-attachments/assets/2569427c-6c17-4149-a4d3-3ea5e3a0317a)
+
 $ ipcs
 
 ![319106839-9f97736f-b86b-49cd-ad98-d4f7a3506575](https://github.com/user-attachments/assets/9cc104b5-1e47-42a0-8185-f0b63ac0fff3)
